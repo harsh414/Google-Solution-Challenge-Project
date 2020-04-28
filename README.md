@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -77,3 +78,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Google-Solution-Challenge-Project
+visit the link for accessing the project .
+The project is hosted using the EC2 cloud platform provided by heroku .
+here is the link :
+https://salty-fortress-42640.herokuapp.com/
+>>>>>>> 12f23b4c7b56cc0a3231ecd6f259c0237857b06c
