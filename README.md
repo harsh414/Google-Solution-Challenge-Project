@@ -1,2 +1,5 @@
 # Google-Solution-Challenge-Project
-Project for stopping the child exploitation . Aim of the project is stop all child labour practices
+visit the link for accessing the project .
+The project is hosted using the EC2 cloud platform provided by heroku .
+here is the link :
+https://salty-fortress-42640.herokuapp.com/
